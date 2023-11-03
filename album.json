@@ -1,0 +1,41 @@
+[
+  {
+    "album_title": "Timeless",
+    "musical_artist": "Davido",
+    "year_released": 2023,
+    "songs": [
+      "Bop",
+      "Picasso",
+      "In the garden",
+      "E pain me",
+      "God father",
+      "Away"
+    ]
+  },
+  {
+    "album_title": "I told them",
+    "musical_artist": "Burna boy",
+    "year_released": 2023,
+    "songs": [
+      "12 Jewel",
+      "I told them",
+      "Thanks",
+      "Cheat on me",
+      "Giza",
+      "If I'm lying"
+    ]
+  },
+  {
+    "album_title": "Take Care",
+    "musical_artist": "Drake",
+    "year_released": 2011,
+    "songs": [
+      "Crew love",
+      "The motto",
+      "Lord knows",
+      "Take care",
+      "Make me proud",
+      "The ride"
+    ]
+  }
+]

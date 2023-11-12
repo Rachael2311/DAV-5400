@@ -1,9 +1,9 @@
 [
   {
-    "album_title": "Timeless",
-    "musical_artist": "Davido",
-    "year_released": 2023,
-    "songs": [
+    "Album": "Timeless",
+    "Artist": "Davido",
+    "Year": 2023,
+    "Track": [
       "Bop",
       "Picasso",
       "In the garden",
@@ -13,10 +13,10 @@
     ]
   },
   {
-    "album_title": "I told them",
-    "musical_artist": "Burna boy",
-    "year_released": 2023,
-    "songs": [
+    "Album: "I told them",
+    "Artist": "Burna boy",
+    "Year": 2023,
+    "Track": [
       "12 Jewel",
       "I told them",
       "Thanks",
@@ -26,10 +26,10 @@
     ]
   },
   {
-    "album_title": "Take Care",
-    "musical_artist": "Drake",
-    "year_released": 2011,
-    "songs": [
+    "Album": "Take Care",
+    "Artist": "Drake",
+    "Year": 2011,
+    "Track": [
       "Crew love",
       "The motto",
       "Lord knows",

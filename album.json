@@ -1,41 +1,41 @@
 [
-  {
-    "Album": "Timeless",
-    "Artist": "Davido",
-    "Year": 2023,
-    "Track": [
-      "Bop",
-      "Picasso",
-      "In the garden",
-      "E pain me",
-      "God father",
-      "Away"
-    ]
-  },
-  {
-    "Album: "I told them",
-    "Artist": "Burna boy",
-    "Year": 2023,
-    "Track": [
-      "12 Jewel",
-      "I told them",
-      "Thanks",
-      "Cheat on me",
-      "Giza",
-      "If I'm lying"
-    ]
-  },
-  {
-    "Album": "Take Care",
-    "Artist": "Drake",
-    "Year": 2011,
-    "Track": [
-      "Crew love",
-      "The motto",
-      "Lord knows",
-      "Take care",
-      "Make me proud",
-      "The ride"
-    ]
-  }
+    {
+        "Album": "Timeless",
+        "Artist": "Davido",
+        "Year": 2023,
+        "Track": [
+            "Bop",
+            "Picasso",
+            "In the garden",
+            "E pain me",
+            "God father",
+            "Away"
+        ]
+    },
+    {
+        "Album": "I told them",
+        "Artist": "Burna boy",
+        "Year": 2023,
+        "Track": [
+            "12 Jewel",
+            "I told them",
+            "Thanks",
+            "Cheat on me",
+            "Giza",
+            "If I'm lying"
+        ]
+    },
+    {
+        "Album": "Take Care",
+        "Artist": "Drake",
+        "Year": 2011,
+        "Track": [
+            "Crew love",
+            "The motto",
+            "Lord knows",
+            "Take care",
+            "Make me proud",
+            "The ride"
+        ]
+    }
 ]
